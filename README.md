@@ -4,11 +4,11 @@
         Web scraping image using JSoup
 
 
-### Download image of website using JSoup.
+## Download image of website using JSoup.
 
-### Get all links of website.
+## Get all links of website.
 
-### Get all js file of website.
+## Get all js file of website.
 
 
 
